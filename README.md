@@ -2,7 +2,8 @@
 Collect some Python functions for scripting
 
 # Introduction
-Collect some functions that you can use directly
+Collect some functions that you can use directly.
+Welcome everyone to perfect this warehouse.
 
 # caregory
 
