@@ -1,4 +1,5 @@
 def File_Enumeration(directory, prefix=None, postfix=None):
+	import os
 	file_list = []
 	directory = os.path.normpath(directory)
 	for parent, dirnames, filenames in os.walk(directory):
